@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Search (Without Pages)
-Plugin URI: http://github.com/gmurphey/search-without-pages
+Plugin URI: http://github.com/gmurphey/wordpress-search-without-pages
 Description: Hides pages in Wordpress search results.
 Version: 1.0
 Author: Garrett Murphey
